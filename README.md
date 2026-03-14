@@ -1,9 +1,9 @@
 #  Express.js Məhsul İdarəetmə Sistemi (API)
 
-Bu layihə, **Node.js** mühitində **Express.js framework-ü** istifadə edilərək hazırlanmış, yüngül və sürətli bir RESTful API nümunəsidir.
+Bu, **Node.js** mühitində **Express.js framework-ü** istifadə edilərək hazırlanmış, yüngül və sürətli bir RESTful API nümunəsidir.
 
 
-##  Layihə Haqqında Ümumi Məlumat
+##  Ümumi Məlumat
 
 Bu API, real vaxt rejimində məhsul (inventory) məlumatlarını idarə etmək üçün nəzərdə tutulub. Kod strukturunda tətbiq edilən **Pagination (Səhifələmə)** məntiqi sayəsində, böyük məlumat kütlələri arasından yalnız lazım olan hissəni çəkmək mümkündür.
 
@@ -18,7 +18,7 @@ Bu API, real vaxt rejimində məhsul (inventory) məlumatlarını idarə etmək 
 
 ##  Texnologiya Steki
 
-Layihənin qurulmasında aşağıdakı texnologiyalardan istifadə olunub:
+Qurulmasında aşağıdakı texnologiyalardan istifadə olunub:
 
 * **Node.js**
 * **Express.js** 
